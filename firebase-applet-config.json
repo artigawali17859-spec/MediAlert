@@ -1,0 +1,9 @@
+const firebaseConfig = {
+  apiKey: "AIzaSyCQRi3Nh33xePqfltuJjg5aJqJegkymAV4",
+  authDomain: "medialert-9c763.firebaseapp.com",
+  projectId: "medialert-9c763",
+  storageBucket: "medialert-9c763.firebasestorage.app",
+  messagingSenderId: "274077918761",
+  appId: "1:274077918761:web:a8d7c40a008b9b08d31e38",
+  measurementId: "G-0R6Y1DCGG3"
+};

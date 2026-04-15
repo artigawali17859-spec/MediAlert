@@ -1,0 +1,6 @@
+{
+  "name": "MediAlert",
+  "description": "A simple medicine reminder application that helps users schedule and receive reminders to take their medications on time. Features include browser notifications, sound alerts, and daily tracking.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": []
+}
